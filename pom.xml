@@ -4,7 +4,7 @@
   <artifactId>springboot</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring boot API</name>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   
   <parent>
   <groupId>org.springframework.boot</groupId>
