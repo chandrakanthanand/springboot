@@ -3,8 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - mvn clean
-      - mvn install
+      - mvn clean install
 artifacts:
   files:
     - 'Dockerfile'
