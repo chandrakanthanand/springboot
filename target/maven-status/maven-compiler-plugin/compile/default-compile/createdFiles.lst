@@ -1,5 +1,6 @@
 com\ck\springboot\controllers\TopicController.class
 com\ck\springboot\controllers\HomeController.class
+com\ck\springboot\SwaggerConfig.class
 com\ck\springboot\MyApp.class
 com\ck\springboot\controllers\Topic.class
 com\ck\springboot\controllers\TopicsService.class
